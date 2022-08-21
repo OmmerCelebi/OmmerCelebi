@@ -32,12 +32,13 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Ommercelebi&show_icons=true&theme=gradient) 
+<br/>
+<br/>
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Ommercelebi&show_icons=true&theme=radical)
   
