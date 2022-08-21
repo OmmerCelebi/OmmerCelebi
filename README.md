@@ -6,3 +6,5 @@
 - 💬 Ask me about  Javascript,React,Android, IOS
 - 📫 How to reach me yusufomercelebi@gmail.com
 - 📫 LinkedIn --> https://www.linkedin.com/in/yusufomercelebi/
+
+### Technologies:
