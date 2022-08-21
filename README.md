@@ -30,6 +30,11 @@
 <a href="https://www.netlify.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="30" height="30"/> </a> 
 <a href="https://trello.com/en" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 
+
+
+
+
+
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Ommercelebi&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Ommercelebi&show_icons=true&theme=radical)
   
